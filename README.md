@@ -1,0 +1,2 @@
+# MarvelightPython
+marvelight app的python实现 可以通过有蓝牙的电脑直接控制marvelight支持的灯
